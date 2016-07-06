@@ -1,0 +1,15 @@
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\bin\Debug\TcClone.exe.config
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.csprojResolveAssemblyReference.cache
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\MainWindow.baml
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\MainWindow.g.cs
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\App.g.cs
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone_MarkupCompile.cache
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.g.resources
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.Properties.Resources.resources
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.csproj.GenerateResource.Cache
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\ProgressDialog.baml
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\ProgressDialog.g.cs
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\bin\Debug\TcClone.exe
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\bin\Debug\TcClone.pdb
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.exe
+C:\Users\skot9\Documents\Visual Studio 2015\Projects\TcClone\obj\Debug\TcClone.pdb
